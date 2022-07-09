@@ -41,6 +41,7 @@ To configure the Timezone Settings
   *  Enter the Country, City and Select the Timezone from the given list.
   *  Save the changes.
   *  Site Administrator can have the permission to set the Timezone.
+  *  The time displaying block automatically placed under the branding region of the custom theme.
   
 PATH
 ----
